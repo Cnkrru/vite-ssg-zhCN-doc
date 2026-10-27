@@ -1,0 +1,17 @@
+{
+  "name": "vite-ssg-zh-CN",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  },
+  "engines": {
+    "node": "^22.18.0 || >=24.12.0"
+  }
+}
